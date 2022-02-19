@@ -1,0 +1,54 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 10px 100px;
+}
+.navbar a {
+    text-decoration: none;
+    color:darkslategray;
+    font-family: gotham, thin; 
+}
+
+.banner {
+        background-color: blanchedalmond;
+        color:darkslategray;
+        text-align: center;
+        margin-top: 0px;
+        padding: 70px;
+}
+#Logo {
+    height: 250px;
+    width: 250px;
+    filter: drop-shadow(3px 3px 3px black)
+}
+#OKS {
+    color:chocolate;
+    font-size: 20px;
+    font-family:gotham, book; 
+    padding: 20px, 10px;  
+}
+.font {
+    font-family: gotham, thin;
+}
+#OK1 ul {
+    list-style-type: none;
+}
+#OK1 {
+    padding: 50px 10px;
+    font-family:gotham,thin;
+    font-size: 15px;
+}
+.small {
+    background-image: url(../images/LOGO\ TRANSPARENT\ GRID.png);
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+    border-radius: 5%;
+    display: inline-block;
+    vertical-align: middle;
+}
